@@ -1,0 +1,2 @@
+#!/bin/sh
+./node_modules/mocha/bin/mocha test/lifecycle.test.js test/integration/**/*.test.js
